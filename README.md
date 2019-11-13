@@ -1,4 +1,4 @@
-# jQuery_Form-Animation and Ajax
+# Javascript / jQuery_Form-Animation and Ajax
  
  Sign Up and Login Form, with jQuery animations.
  Form Validation using a jQuery Validation plugin.
